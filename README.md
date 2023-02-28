@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working as Software Engineer in IT Consultant Company
+- 🔭 I’m currently working as Software/Data Engineer in IT Consultant Company
 
 - 🌱 I’m currently learning Data Science,Machine Learning,Golang,AWS 
 
